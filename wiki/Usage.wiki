@@ -10,7 +10,7 @@ Step by step:
   * Configure your DNSPod account
   * Download podlet-mini-`*`.jar from project page
   * Copy it to your WEB-INF\lib
-  * Add below content in your web.xml and then enjoy it:
+  * Add below content in your web.xml and then enjoy it (be sure you are using jre1.6 or above):
 {{{
 	<servlet>
 		<servlet-name>Podlet</servlet-name>
