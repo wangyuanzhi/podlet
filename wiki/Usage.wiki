@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
 #labels Usage,Phase-Deploy,podlet-mini,podlet
-
 = Introduction =
 
 This page describe how to use podlet.
